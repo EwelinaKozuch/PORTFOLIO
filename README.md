@@ -1,4 +1,4 @@
-# SOFTWARE TESTER PORTFOLIO - ## Ewelina Kożuch
+# SOFTWARE TESTER PORTFOLIO - Ewelina Kożuch
 
 ## What I'm looking for: 
 a company that wants to see that hiring me = hiring a engaged, conscientious and communicative tester who is a fast learner. I'm looking to work as a manual tester, developing in the direction of test automation. I'm interested in long-term cooperation in a close-knit team.
