@@ -10,10 +10,10 @@ a company that wants to see that hiring me = hiring a engaged, conscientious and
 ## :point_right: Why testing: 
 I checked if my character traits fit the personality profile of a tester - yes, they fit perfectly. I took part in a testing mentoring program - this confirmed my decision that testing is for me.
 
-## What I can already do:
-### Manual testing:
+## :books: What I can already do:
+### :bug: Manual testing:
 theory - types, levels of testing, STLC, bug life cycle, etc.; creating test scenarios, test cases; bug reporting; exploratory testing; Agile, Scrum
-### Test automation:
+### :computer: Test automation:
 Postman, Java+Selenium - in progress, HTML/CSS, SQL
-### Tools:
+### :wrench: Tools:
 Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
