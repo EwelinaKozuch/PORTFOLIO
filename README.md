@@ -15,5 +15,5 @@ I'm fascinated by exploring the secrets of how devices and software work.
 theory - types, levels of testing, STLC, bug life cycle, etc.; creating test scenarios, test cases; bug reporting; exploratory testing; Agile, Scrum
 ### Test automation:
 Postman, Java+Selenium - in progress, HTML/CSS, SQL
-### Narzędzia:
+### Tools:
 Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
