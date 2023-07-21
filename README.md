@@ -18,7 +18,7 @@ Postman, Java+Selenium - in progress, HTML/CSS, SQL
 ### :wrench: Tools
 Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 
-## Examples of my work
+## :construction_worker: Examples of my work
 test scenarios
 test cases
 bug report
