@@ -20,6 +20,6 @@ Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 
 ## :construction_worker: Examples of my work
 test scenarios
-[test cases](https://drive.google.com/drive/folders/16BgwQx5172McCGyvbENUad8hVyBhbiUc?usp=drive_link)
-bug report
+:page_facing_up:[test cases](https://drive.google.com/drive/folders/16BgwQx5172McCGyvbENUad8hVyBhbiUc?usp=drive_link)
+:page_facing_up:[bug report](https://drive.google.com/drive/folders/1SdLcvjC3eLSaHAYYdL8QITIArA57euob?usp=drive_link)
 exploratory testing
