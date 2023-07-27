@@ -12,7 +12,7 @@ I checked if my character traits fit the personality profile of a tester - yes, 
 
 ## :chart_with_upwards_trend: What I can already do
 ### :bug: Manual testing
-theory - types, levels of testing, STLC, bug life cycle, etc.; creating test scenarios, test cases; bug reporting; exploratory testing; Agile, Scrum
+theory - types, levels of testing, STLC, bug life cycle, etc.; creating test scenarios, test cases; bug report; exploratory testing; Agile, Scrum
 ### :computer: Test automation
 Postman, Java+Selenium - in progress, HTML/CSS, SQL
 ### :wrench: Tools
