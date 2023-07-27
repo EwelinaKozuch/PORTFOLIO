@@ -14,7 +14,7 @@ I checked if my character traits fit the personality profile of a tester - yes, 
 ### :bug: Manual testing
 theory - types, levels of testing, STLC, bug life cycle, etc.; creating test scenarios, test cases; bug report; exploratory testing; Agile, Scrum
 ### :computer: Test automation
-Postman, Java+Selenium - in progress, HTML/CSS, SQL
+Postman, Java+Selenium, REST Assured - in progress, HTML/CSS, SQL
 ### :wrench: Tools
 Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 
