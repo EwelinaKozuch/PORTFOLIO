@@ -22,4 +22,5 @@ Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 test scenarios exploratory testing
 :page_facing_up:[test cases](https://drive.google.com/drive/folders/16BgwQx5172McCGyvbENUad8hVyBhbiUc?usp=drive_link)
 :page_facing_up:[bug reports](https://drive.google.com/drive/folders/1SdLcvjC3eLSaHAYYdL8QITIArA57euob?usp=drive_link)
+CSS, XPath Selectors
 :page_facing_up: [website created with wordpress elementor](https://slowoposlowie.pl/) 
