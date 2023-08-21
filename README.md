@@ -21,9 +21,9 @@ Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 #### :arrow_right: [List of completed online courses](https://drive.google.com/file/d/1sSDEMHNsorsTH4lK68LlD9tbCg86rg1b/view?usp=drive_link)
 
 ## :construction_worker: Examples of my work 
-*:page_facing_up:[test cases](https://drive.google.com/drive/folders/16BgwQx5172McCGyvbENUad8hVyBhbiUc?usp=drive_link)
-*:page_facing_up:[bug reports](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=drive_link)
-*:page_facing_up:[manual testing](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=sharing)
-*:page_facing_up: [website created with wordpress elementor](https://slowoposlowie.pl/) 
-*test scenarios exploratory testing
-*CSS, XPath Selectors
+- :page_facing_up:[test cases](https://drive.google.com/drive/folders/16BgwQx5172McCGyvbENUad8hVyBhbiUc?usp=drive_link)
+- :page_facing_up:[bug reports](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=drive_link)
+- :page_facing_up:[manual testing](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=sharing)
+- :page_facing_up: [website created with wordpress elementor](https://slowoposlowie.pl/) 
+- test scenarios exploratory testing
+- CSS, XPath Selectors
