@@ -20,7 +20,7 @@ Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 
 #### :arrow_right: [List of completed online courses](https://drive.google.com/file/d/1sSDEMHNsorsTH4lK68LlD9tbCg86rg1b/view?usp=drive_link)
 
-## :construction_worker: Examples of... (when you click you will see an example prepared by me) 
+## :construction_worker: Examples of... (when you click you will see an example created by me) 
 - :page_facing_up:[test cases](https://drive.google.com/file/d/1FFA4XCxrZj8kqgSVvB_81rQMmYkuX3SB/view?usp=drive_link)
 - :page_facing_up:[smoke test cases](https://drive.google.com/file/d/184GzGc_fESOO_5zzhIjossHrR7bLK-uS/view?usp=drive_link)
 - :page_facing_up:[bug report](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=drive_link)
