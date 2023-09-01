@@ -18,7 +18,7 @@ Postman, Java+Selenium, REST Assured - in progress, HTML/CSS, SQL
 ### :wrench: Tools
 Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 
-#### :arrow_right: [List of completed online courses](https://drive.google.com/file/d/1sSDEMHNsorsTH4lK68LlD9tbCg86rg1b/view?usp=drive_link)
+#### :arrow_right: [List of completed IT online courses](https://drive.google.com/file/d/1sSDEMHNsorsTH4lK68LlD9tbCg86rg1b/view?usp=drive_link)
 
 ## :construction_worker: Examples of... (when you click you will see an example created by me) 
 - :page_facing_up:[test cases](https://drive.google.com/file/d/1FFA4XCxrZj8kqgSVvB_81rQMmYkuX3SB/view?usp=drive_link)
