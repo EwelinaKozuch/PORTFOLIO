@@ -21,11 +21,11 @@ Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 #### :arrow_right: [List of completed IT online courses](https://drive.google.com/file/d/1sSDEMHNsorsTH4lK68LlD9tbCg86rg1b/view?usp=drive_link)
 
 ## :construction_worker: Examples of... (when you click you will see an example created by me) 
-- :page_facing_up:[test cases](https://drive.google.com/file/d/1FFA4XCxrZj8kqgSVvB_81rQMmYkuX3SB/view?usp=drive_link)
-- :page_facing_up:[smoke test cases](https://drive.google.com/file/d/184GzGc_fESOO_5zzhIjossHrR7bLK-uS/view?usp=drive_link)
-- :page_facing_up:[bug report](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=drive_link)
-- :page_facing_up:[list of tested websites](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=sharing)
-- :page_facing_up:[beta test](https://drive.google.com/file/d/112-t17i1c-ZsjhAwlr1rWxmwBnVZ30Um/view?usp=drive_link)
-- :page_facing_up:[website created with wordpress elementor](https://slowoposlowie.pl/) 
+- [test cases](https://drive.google.com/file/d/1FFA4XCxrZj8kqgSVvB_81rQMmYkuX3SB/view?usp=drive_link)
+- [smoke test cases](https://drive.google.com/file/d/184GzGc_fESOO_5zzhIjossHrR7bLK-uS/view?usp=drive_link)
+- [bug report](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=drive_link)
+- [list of tested websites](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=sharing)
+- [beta test](https://drive.google.com/file/d/112-t17i1c-ZsjhAwlr1rWxmwBnVZ30Um/view?usp=drive_link)
+- [website created with wordpress elementor](https://slowoposlowie.pl/) 
 - test scenarios exploratory testing
 - CSS, XPath Selectors
