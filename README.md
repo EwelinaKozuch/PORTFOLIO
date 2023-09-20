@@ -10,13 +10,15 @@ A company that wants to see that hiring me = hiring a engaged, communicative and
 ## :point_right: Why testing
 I checked if my character traits fit the personality profile of a tester - yes, they fit perfectly. I took part in a testing mentoring program - this confirmed my decision that testing is for me.
 
-## :chart_with_upwards_trend: What I'm learning and using
-### :bug: Manual testing
+## What I'm learning and using
+### Manual testing
 theory - types, levels of testing, STLC, bug life cycle, etc.; creating test scenarios, test cases; bug reports; CSS, XPath Selectors; exploratory testing; Agile, Scrum
-### :computer: Test automation
+### Test automation
 Postman, Java+Selenium, REST Assured - in progress, HTML/CSS, SQL
-### :wrench: Tools
+### Tools
 Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
+
+
 
 #### :arrow_right: [List of completed IT online courses](https://drive.google.com/file/d/1sSDEMHNsorsTH4lK68LlD9tbCg86rg1b/view?usp=drive_link)
 
