@@ -26,7 +26,7 @@ Jira, Trello, Slack, MS365, DevTools, Screenpresso, GitHub
 - [list of tested websites](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=sharing)
 - [test cases](https://drive.google.com/file/d/1FFA4XCxrZj8kqgSVvB_81rQMmYkuX3SB/view?usp=drive_link)
 - [smoke test cases](https://drive.google.com/file/d/184GzGc_fESOO_5zzhIjossHrR7bLK-uS/view?usp=drive_link)
-- [bug report](https://drive.google.com/file/d/1MuC8gmj8rINtLjUdxyIr1ZDHZTFfd5GN/view?usp=drive_link)
+- [bug report]
 - [beta test](https://drive.google.com/file/d/112-t17i1c-ZsjhAwlr1rWxmwBnVZ30Um/view?usp=drive_link)
 - [website created with wordpress elementor](https://slowoposlowie.pl/) 
 
